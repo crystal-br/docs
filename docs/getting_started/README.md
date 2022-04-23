@@ -1,12 +1,12 @@
 # Getting started
 
-Hi and welcome to Crystal's Reference Book!
+Olá e boas-vindas ao livro de referência sobre Crystal!
 
-First, let's make sure to [install the compiler](https://crystal-lang.org/install/) so that we may try all the examples listed in this book.
+Primero, tenha certeza de [instalar o compilador](https://crystal-lang.org/install/) para que possamos testar todos os exemplos neste livro.
 
-Once installed, the Crystal compiler should be available as `crystal` command.
+Uma vez instalado, o compilador Crystal deve estar disponível com o comando `crystal`.
 
-Let's try it!
+Vamos tentar!
 
 ## Crystal version
 

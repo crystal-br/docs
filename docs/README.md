@@ -7,9 +7,9 @@ hide:
 
 Bem vindo a documentação da linguagem crystal!
 
-Crystal é uma linguagem para humanos e computadores. Esses materiais iram ajudar humanos a entender a linguagem e seu ecosistema.
+Crystal é uma linguagem para humanos e computadores. Estes materiais ajudam humanos a entender a linguagem e seu ecosistema.
 
-## Materiais para aprendizagem
+## Materiais de aprendizagem
 
 Estas instruções e cursos ajudam você a conhecer a linguagem e como utilizá-la.
 
@@ -17,26 +17,26 @@ Estas instruções e cursos ajudam você a conhecer a linguagem e como utilizá-
   <div class="card" markdown="1">
 
 ### [O começo](getting_started/README.md)
-Instalando crystal e iniciando.
+Instalando crystal e pondo a mão na massa.
 
   </div>
   <div class="card" markdown="1">
 
-### Tutorial
-Curso introdutório para aprendizagem inicial e avançada
+### Tutoriais
+Cursos introdutórios para iniciantes e avançados.
 
 * [Básico](tutorials/basics/README.md)
 
   </div>
   <div class="card" markdown="1">
 
-### [Guia de referencia](guides/README.md)
-Exemplos detalhados de uso.
+### [Guias](guides/README.md)
+Exemplos detalhados para aplicações práticas.
 
   </div>
   <div class="card" markdown="1">
 
-### Tools
+### Utilitários
 
 * [Online Playgrounds](https://github.com/crystal-lang/crystal/wiki/Online-playgrounds)
 * [IDE Integrations](https://github.com/veelenga/awesome-crystal#editor-plugins)
@@ -55,7 +55,7 @@ The core documentation of the Crystal language, standard library, and tooling.
   <div class="card" markdown="1">
 
 ### [Language Reference](syntax_and_semantics/README.md)
-Specification of the language.
+Especificação da linguagem.
 
   </div>
   <div class="card" markdown="1">
@@ -67,54 +67,54 @@ Documentation of the standard library.
   <div class="card" markdown="1">
 
 ### Shards
-Discover the ecosystem of Crystal libraries.
+Descubra o ecosistema das bibliotecas de Crystal.
 
-* [Discovering Shards](https://crystal-lang.org/community/#shards)
-* [Specification](https://github.com/crystal-lang/shards/blob/master/docs/shard.yml.adoc)
-* [Shards Manual](the_shards_command/README.md)
-
-  </div>
-  <div class="card" markdown="1">
-
-### [Compiler Manual](using_the_compiler/README.md)
-Instructions on how to use the compiler and tools.
+* [Desbravando os Shards](https://crystal-lang.org/community/#shards)
+* [Especificação](https://github.com/crystal-lang/shards/blob/master/docs/shard.yml.adoc)
+* [Manual dos Shards](the_shards_command/README.md)
 
   </div>
   <div class="card" markdown="1">
 
-### Developer News
+### [Manual do Compilador](using_the_compiler/README.md)
+Instruções de como usar o compilador e os utilitários.
 
-Announcements about the language development.
+  </div>
+  <div class="card" markdown="1">
 
-* [Release Notes](https://crystal-lang.org/blog/#release_notes)
-* [Crystal Blog](https://crystal-lang.org/blog)
+### Noticias de Desenvolvimento
+
+Anuncios sobre o desenvolvimento da linguagem.
+
+* [Notas de Atualizações](https://crystal-lang.org/blog/#release_notes)
+* [Blog Crystal](https://crystal-lang.org/blog)
 
   </div>
 </div>
 
 ---
 
-## Contribute
+## Contribua
 
-If you want to dive into the development of Crystal, these materials give some guidance.
+Se você deseja entrar no desenvolvimento de Crystal, estes materias te darão um alinhamento.
 
 <div class="cards" markdown="1">
   <div class="card" markdown="1">
 
-### [Contributing Instructions](https://github.com/crystal-lang/crystal/blob/master/CONTRIBUTING.md)
-A guide on how to open issues and contribute code to the Crystal project.
+### [Instruções de Contribuição](https://github.com/crystal-lang/crystal/blob/master/CONTRIBUTING.md)
+Um guia de como abrir *issues* e contribuir com código do projeto Crystal.
 
   </div>
   <div class="card" markdown="1">
 
-### [Code of Conduct](https://github.com/crystal-lang/crystal/blob/master/CODE_OF_CONDUCT.md)
-Our standards and expectations about working together as a community.
+### [Código de Conduta](https://github.com/crystal-lang/crystal/blob/master/CODE_OF_CONDUCT.md)
+Nossos padrões e expectativas sobre trabalharmos juntos como uma comunidade.
 
   </div>
   <div class="card" markdown="1">
 
 ### [Governance document](governance.md)
-How we take the decisions that guide the language and its community.
+Como tomamos as decisões que orientam a linguagem (Crystal) e sua comunidade.
 
   </div>
   <div class="card" markdown="1">
