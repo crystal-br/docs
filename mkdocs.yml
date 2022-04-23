@@ -12,6 +12,9 @@ extra:
     - name: 日本語
       link: https://ja.crystal-lang.org/reference/
       lang: ja
+    - name: Portuguese
+      link: http://127.0.0.1:8000/reference/latest/
+      lang: pt-BR
   version:
     provider: mike
   analytics:
@@ -20,7 +23,7 @@ extra:
 
 theme:
   name: material
-  language: en
+  language: pt-BR
   palette:
     primary: black
     accent: blue

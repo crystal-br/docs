@@ -3,35 +3,35 @@ hide:
   - toc        # Hide table of contents
 ---
 
-# Crystal Book
+# Documentação Crystal
 
-Welcome to the documentation for the Crystal language.
+Bem vindo a documentação da linguagem crystal!
 
-Crystal is a language for humans and computers. These materials help humans understand the language and its ecosystem.
+Crystal é uma linguagem para humanos e computadores. Esses materiais iram ajudar humanos a entender a linguagem e seu ecosistema.
 
-## Learning Materials
+## Materiais para aprendizagem
 
-These instructions and courses help you get to know the language and how to use it.
+Estas instruções e cursos ajudam você a conhecer a linguagem e como utilizá-la.
 
 <div class="cards" markdown="1">
   <div class="card" markdown="1">
 
-### [Getting started](getting_started/README.md)
-Install Crystal and get it running.
+### [O começo](getting_started/README.md)
+Instalando crystal e iniciando.
 
   </div>
   <div class="card" markdown="1">
 
-### Tutorials
-Introductory courses for beginners and advanced learners.
+### Tutorial
+Curso introdutório para aprendizagem inicial e avançada
 
-* [Basics](tutorials/basics/README.md)
+* [Básico](tutorials/basics/README.md)
 
   </div>
   <div class="card" markdown="1">
 
-### [Guides](guides/README.md)
-Detailed examples for practical applications.
+### [Guia de referencia](guides/README.md)
+Exemplos detalhados de uso.
 
   </div>
   <div class="card" markdown="1">
