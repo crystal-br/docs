@@ -10,18 +10,18 @@ Vamos tentar!
 
 ## Crystal version
 
-We may check the Crystal compiler version. If Crystal is installed correctly then we should see something like this:
+Se Crystal for instalado corretamente, podemos então checar a versão do compilador desta forma:
 
 ```console
 $ crystal --version
 --8<-- "crystal-version.txt"
 ```
 
-Great!
+Ótimo!
 
 ## Crystal help
 
-Now, if we want to list all the options given by the compiler, we may run `crystal` program without any arguments:
+Agora, se nós queremos listar todas as opções dadas pelo compilador, podemos executar apenas `crystal` sem nenhum argumento:
 
 ```console
 $ crystal
@@ -44,17 +44,17 @@ Run a command followed by --help to see command-specific information, ex:
     crystal <command> --help
 ```
 
-More details about using the compiler can be found on the manpage `man crystal` or in our [compiler manual](../using_the_compiler/README.md).
+Mais detalhes sobre como usar o compilador podem ser encontrados no *manpage* (`man crystal`) ou em nosso [manual do compilador](../using_the_compiler/README.md).
 
 ## Hello Crystal
 
-The following example is the classic Hello World. In Crystal it looks like this:
+O exemplo a seguir é o clássico "*Hello World*". Em Crystal é o seguinte:
 
 ```crystal title="hello_world.cr"
 puts "Hello World!"
 ```
 
-We may run our example like this:
+Podemos executar nosso exemplo desta forma:
 
 ```console
 $ crystal hello_world.cr
@@ -62,11 +62,13 @@ Hello World!
 ```
 
 !!! note
-    The main routine is simply the program itself. There's no need to define a "main" function or something similar.
+    Não há necessidade de definir uma função "*main*" ou algo semelhante. Crystal entende o programa inteiro como função principal.
 
-Next you might want to start with the [Introduction Tour](../tutorials/basics/README.md) to get acquainted with the language.
+Em seguida, você pode querer dar uma olhada no [Tour Introdutório](../tutorials/basics/README.md) para conhecer mais sobre a linguagem.
 
-Here we have two more examples to continue our first steps in Crystal:
+---
+
+Aqui temos mais dois exemplos para continuarmos nossos primeiros passos em Crystal:
 
 - [HTTP Server](./http_server.md)
 - [Command Line Application](./cli.md)
