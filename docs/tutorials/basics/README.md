@@ -1,15 +1,13 @@
-# Language Introduction
+# Introdução a Crystal
 
-This course is targeted at novice Crystal programmers and conveys a basic understanding
-of the language's core concepts.
-Prior programming experience is recommended, but not required. This course can help you learn
-your first programming language.
+Este curso é direcionado a programadores novatos de Crystal e transmite um entendimento básico dos conceitos centrais da linguagem.
+Recomenda-se experiência prévia em programação, mas não é tão necessária. Este curso pode ajudá-lo a aprender sua primeira linguagem de programação.
 
-Contents:
+Conteúdos:
 
-* [Hello World](10_hello_world.md) – A simple program that prints a famous first message
-* [Variables](20_variables.md) – Introduction to variables and assignments
-* [Math](30_math.md) – Basic numbers and algebra
-* [Strings](40_strings.md) – Examples on how to modify strings
-* [Control Flow](50_control_flow.md) – How to structure a program with conditionals and loops
-* [Methods](60_methods.md) – Introduction to methods, arguments and type restrictions
+* [Hello World](10_hello_world.md) – Um programa simples que imprime uma famosa primeira mensagem
+* [Variáveis](20_variables.md) – Introdução a variáveis e atribuições
+* [Math](30_math.md) – Números básicos e álgebra
+* [Strings](40_strings.md) – Exemplos de como modificar strings
+* [Controle de Fluxo](50_control_flow.md) – Como estruturar um programa com condicionais e loops
+* [Métodos](60_methods.md) – Introdução a métodos, argumentos e restrições de tipo

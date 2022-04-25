@@ -1,24 +1,24 @@
 # Hello World
 
-The first thing you need to learn in any programming language is the famous [`Hello World!` program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
+A primeira coisa que você precisa aprender em qualquer linguagem de programação é o famoso [`Hello World!`](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
 
-In Crystal this is pretty simple, maybe a little bit boring:
+Em Crystal isso é muito simples, talvez até um pouco chato:
 
 ```crystal-play
 puts "Hello World!"
 ```
 
 !!! tip
-    You can build and run code examples interactively in this tutorial by clicking the `Run` button (thanks to [carc.in](https://carc.in)).
-    The output is shown directly inline.
+    Você pode compilar e executar exemplos de código interativamente neste tutorial clicando no botão "Run" (obrigado [carc.in](https://carc.in)).
+    A saída é mostrada diretamente em linha.
 
-    If you want to follow along locally, follow the [installation](https://crystal-lang.org/install/) and [getting started](../../getting_started/README.md) instructions.
+    Se você quiser acompanhar localmente, siga as instruções em [Instalação](https://crystal-lang.org/install/) e [Começando em Crystal](../../getting_started/README.md).
 
 !!! info inline end
-    The name `puts` is short for “put string”.
+    O nome `puts` é uma abreviação para  "*put string*".
 
-The entire program consists of a call to the method [`puts`](https://crystal-lang.org/api/toplevel.html#puts%28%2Aobjects%29%3ANil-class-method) with the string `Hello World!` as an argument.
+Todo o programa consiste em uma chamada para o método ['puts'](https://crystal-lang.org/api/toplevel.html#puts%28%2Aobjects%29%3ANil-class-method) com a string "Hello World!" como argumento.
 
-This method prints the string (plus a trailing newline character) to the [standard output](https://en.wikipedia.org/wiki/Standard_output).
+Este método imprime a string (e um caractere de linha nova) na [*standard output*](https://en.wikipedia.org/wiki/Standard_output).
 
-All code in the top-level scope is part of the main program. There is no explicit `main` function as [entry point](https://en.wikipedia.org/wiki/Entry_point) to the program.
+Todo o código no escopo global (*top-level*) faz parte do programa principal. Não há função "*main*" explícita como [*entry point*](https://en.wikipedia.org/wiki/Entry_point) para o programa.
